@@ -64,6 +64,4 @@ Employees can cancel or delete leave requests only while the request is still in
 
 ---
 
-## GitHub Repository
 
-[https://github.com/VANISAIDEEPIKA/Employee-Leave-Management-System.git](https://github.com/VANISAIDEEPIKA/Employee-Leave-Management-System.git)
